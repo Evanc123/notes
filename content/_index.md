@@ -3,7 +3,10 @@ title: Fragments
 enableToc: false
 ---
 
-test 1 2 three [[callouts]]
+test 1 2 three [[callouts]] [[callouts]] [[callouts]] [[notes/callouts]] 
+
+Go to [this thing](notes/maintenence.md) [[notes/maintenence]]
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
